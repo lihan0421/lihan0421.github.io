@@ -80,10 +80,10 @@ Hi, I am a second-year Master's student in the LLM for Software Engineering Lab 
 ---
 
 ## Campus Experience
-- **Member, Hunan Admissions Team of SJTU** (2021.07 – 2024.06)  
-- **Class President, Software Engineering F2003703** (2020.11 – 2024.06)  
-- **Director, Sports Department, Student Union of School of Electronic Information and Electrical Engineering** (2020.10 – 2022.12)  
-- **Director, Work Department, CPC Research Association of SEIEE** (2021.10 – 2022.11)  
+- Member, Hunan Admissions Team of SJTU (2021.07 – 2024.06)  
+- Class President, Software Engineering F2003703 (2020.11 – 2024.06)  
+- Director, Sports Department, Student Union of School of Electronic Information and Electrical Engineering (2020.10 – 2022.12)  
+- Director, Work Department, CPC Research Association of SEIEE (2021.10 – 2022.11)  
 - Participated in university admissions work for three consecutive years; coordinated multiple class and school-wide activities
 
 ---
