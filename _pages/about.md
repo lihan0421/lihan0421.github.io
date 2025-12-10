@@ -11,15 +11,14 @@ redirect_from:
 Shanghai Jiao Tong University · Software Engineering  
 - Research Interests: Software Engineering, Intelligent Agents, Repository-level Code Understanding, SWE-bench Problem Solving  
 - Current Position: M.S. Student, School of Computer Science, Shanghai Jiao Tong University (2024.09–2027.06)
+
 ---
 
 ## Education
 **Shanghai Jiao Tong University**  
 - **M.S., Software Engineering** (2024.09 – 2027.06)
-
 **Shanghai Jiao Tong University**  
 - **B.S., Software Engineering** (2020.09 – 2024.06)
-
 ---
 
 ## Campus Experience
