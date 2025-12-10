@@ -44,10 +44,6 @@ Shanghai Jiao Tong University · Software Engineering
 - Implemented a real-time rigid body simulation engine based on XPBD  
 - Reproduced XPBD algorithms and integrated them into a vehicle motion model  
 - Built the foundation for further extension and real-time applications
-
-### 🔍 Additional Research Exploration
-- Survey and exploration of cutting-edge techniques for intelligent recommendation systems
-
 ---
 
 ## Internship Experience
