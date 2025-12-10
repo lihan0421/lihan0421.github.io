@@ -24,7 +24,6 @@ Hi, I am a second-year Master's student in the LLM for Software Engineering Lab 
 ## Education
 **Shanghai Jiao Tong University**  
 - **M.S., Software Engineering** (2024.09 – 2027.06)
-**Shanghai Jiao Tong University**  
 - **B.S., Software Engineering** (2020.09 – 2024.06)
 
 ---
