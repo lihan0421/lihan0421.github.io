@@ -10,7 +10,7 @@ redirect_from:
 # 🙋 About Me
 Hi, I am a second-year Master's student in the LLM for Software Engineering Lab (LLMSE), affiliated with the School of Software at Shanghai Jiao Tong University in China. I’m grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
 
-🧐 **Research Interests**
+# 🧐 **Research Interests**
 **Software Engineering:** code generation, code debugging, software issue resolution, swe bench
 **Natural Language Processing:**  retrieval augmented generation, multi-agent systems
 
