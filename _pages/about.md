@@ -35,7 +35,7 @@ Hi, I am a second-year Master's student in the LLM for Software Engineering Lab 
 - Investigating advanced multi-agent collaboration mechanisms for SWE-bench–like issue solving  
 - Focusing on agent coordination, reasoning enhancement, and repository-level debugging automation
 
-### 🧠 Large Model Software Technology Lab, Shanghai Jiao Tong University  
+### 🧠 Large Model Software Technology Lab, SJTU
 **Graduate Researcher** (2024.09 – Present)  
 - Developing an issue-resolution framework based on Experience Pool and Localization Chain  
 - Researching agent architectures for repository-level code understanding and automated bug fixing  
