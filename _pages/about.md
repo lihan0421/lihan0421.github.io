@@ -7,30 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-# Han Li  
-Shanghai Jiao Tong University · Software Engineering  
-- Research Interests: Software Engineering, Intelligent Agents, Repository-level Code Understanding, SWE-bench Problem Solving  
-- Current Position: M.S. Student, School of Computer Science, Shanghai Jiao Tong University (2024.09–2027.06)
+# 🙋 About Me
+Hi, I am a second-year Master's student in the LLM for Software Engineering Lab (LLMSE), affiliated with the School of Software at Shanghai Jiao Tong University in China. I’m grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
+
+🧐 **Research Interests**
+**Software Engineering:** code generation, code debugging, software issue resolution, swe bench
+**Natural Language Processing:**  retrieval augmented generation, multi-agent systems
 
 ---
+
+## 📝 Publications
+**Preprints**  
+  **SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution**  
+  [Preprint](https://arxiv.org/abs/2507.23348)  
+  Han Li†, Yuling Shi†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
 
 ## Education
 **Shanghai Jiao Tong University**  
 - **M.S., Software Engineering** (2024.09 – 2027.06)
 **Shanghai Jiao Tong University**  
 - **B.S., Software Engineering** (2020.09 – 2024.06)
----
-
-## Campus Experience
-- **Member, Hunan Admissions Team of SJTU** (2021.07 – 2024.06)  
-- **Class President, Software Engineering F2003703** (2020.11 – 2024.06)  
-- **Director, Sports Department, Student Union of School of Electronic Information and Electrical Engineering** (2020.10 – 2022.12)  
-- **Director, Work Department, CPC Research Association of SEIEE** (2021.10 – 2022.11)  
-- Participated in university admissions work for three consecutive years; coordinated multiple class and school-wide activities
 
 ---
 
-## Research Experience
+## 👨‍💻 Experiences
+### 🛰️ Huawei 
+**Topic: Enhancing Multi-Agent Capabilities for Issue Resolution**  
+2025.01 – 2025.07  
+- Investigating advanced multi-agent collaboration mechanisms for SWE-bench–like issue solving  
+- Focusing on agent coordination, reasoning enhancement, and repository-level debugging automation
 
 ### 🧠 Large Model Software Technology Lab, Shanghai Jiao Tong University  
 **Graduate Researcher** (2024.09 – Present)  
@@ -45,20 +50,9 @@ Shanghai Jiao Tong University · Software Engineering
 - Built the foundation for further extension and real-time applications
 ---
 
-## Internship Experience
-
-### 🛰️ Huawei 
-**Topic: Enhancing Multi-Agent Capabilities for Issue Resolution**  
-2025.01 – 2025.07  
-- Investigating advanced multi-agent collaboration mechanisms for SWE-bench–like issue solving  
-- Focusing on agent coordination, reasoning enhancement, and repository-level debugging automation
-
-### Assistant Research Intern (Mentor: Ding Yue)  
-Shanghai Jiao Tong University  
-2021.07 – 2021.08  
-- Undergraduate summer research internship
-
----
+## 📚 Teaching
+- Teaching Assistant for CS0001W “Fundamentals and Practice of AI Large Models” (Fall 2025)
+- Teaching Assistant for SE2303 “Principles and Practice of Software Engineering” (Summer 2025)
 
 ## Social Practice
 **Theme: “Contributing to Rural Revitalization and Welcoming the 20th CPC National Congress”**  
@@ -67,8 +61,7 @@ Shanghai Jiao Tong University
 
 ---
 
-## Awards & Honors
-
+## 🏆 Awards & Honors
 ### 🎓 Personal Honors
 - **Outstanding Graduate of Shanghai Jiao Tong University** (2024.05)  
 - **Excellent Graduate of the SJTU Youth Marxism School** (2023.04)
@@ -80,11 +73,20 @@ Shanghai Jiao Tong University
 - SJTU “Triple-A” Student Award (2021.09)
 
 ### 💰 Scholarships
+- Graduate Student Excellence Scholarship（2025.11）
 - COSCO Shipping Scholarship (2023.12)  
-- Longfor Foundation Scholarship (2022.09)  
-- SJTU Scholarship Class C (2022.09)  
+- Longhu Foundation Scholarship (2022.09)  
 - Tencent Scholarship (2021.09)  
 - SJTU Scholarship Class B (2021.09)
+
+---
+
+## Campus Experience
+- **Member, Hunan Admissions Team of SJTU** (2021.07 – 2024.06)  
+- **Class President, Software Engineering F2003703** (2020.11 – 2024.06)  
+- **Director, Sports Department, Student Union of School of Electronic Information and Electrical Engineering** (2020.10 – 2022.12)  
+- **Director, Work Department, CPC Research Association of SEIEE** (2021.10 – 2022.11)  
+- Participated in university admissions work for three consecutive years; coordinated multiple class and school-wide activities
 
 ---
 
