@@ -93,5 +93,3 @@ Shanghai Jiao Tong University
 
 ---
 
-
-Would you like me to refine the English wording to sound more like a top-tier academic homepage (MIT/Stanford style)?
