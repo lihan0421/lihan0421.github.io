@@ -16,10 +16,11 @@ Hi, I am a second-year Master's student in the LLM for Software Engineering Lab 
 ---
 
 ## 📝 Publications
-**Preprints**  
+**Publications**  
   **SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution**  
-  [Preprint](https://arxiv.org/abs/2507.23348)  
+  [ICSE 2026](https://arxiv.org/abs/2507.23348)  
   Han Li†, Yuling Shi†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
+  
 
 ## Education
 **Shanghai Jiao Tong University**  
