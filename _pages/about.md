@@ -87,5 +87,8 @@ Hi, I am a second-year Master's student in the LLM for Software Engineering Lab 
 - Director, Work Department, CPC Research Association of SEIEE (2021.10 – 2022.11)  
 - Participated in university admissions work for three consecutive years; coordinated multiple class and school-wide activities
 
+
+## Open-source projects participated in
+- 🔥 A collection of resources for repo-level code generation. [github](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)
 ---
 
