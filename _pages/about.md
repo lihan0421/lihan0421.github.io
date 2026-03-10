@@ -67,6 +67,7 @@ Hi, I am a second-year Master's student in the LLM for Software Engineering Lab 
 - **Excellent Graduate of the SJTU Youth Marxism School** (2023.04)
 
 ### 🏅 University Honors
+- SJTU “Triple-A” Student Award (2025.10) 
 - Excellent Communist Youth League Member of SJTU (2023.09)  
 - SJTU “Triple-A” Student Award (2022.10)  
 - Excellent CYL Member of SJTU (2022.05)  
