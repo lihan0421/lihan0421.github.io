@@ -52,6 +52,7 @@ Hi, I am a second-year Master's student in the LLM for Software Engineering Lab 
 ## 📚 Teaching
 - Teaching Assistant for CS0001W “Fundamentals and Practice of AI Large Models” (Fall 2025)
 - Teaching Assistant for SE2303 “Principles and Practice of Software Engineering” (Summer 2025)
+- Teaching Assistant for SE3332 “machine learning” (Spring 2026)
 
 ## Social Practice
 **Theme: “Contributing to Rural Revitalization and Welcoming the 20th CPC National Congress”**  
