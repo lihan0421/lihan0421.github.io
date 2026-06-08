@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lihan0421.github.io/sitemap.xml
