@@ -38,12 +38,12 @@ Hi, I am a third-year Master’s student in the LLM for Software Engineering Lab
 
 ## 👨‍💻 Experiences
 ### 🚗 SAIC Motor, Platform Software Department
-**Code Agent Developer – University-Enterprise Joint Training** (2026.08 – Present)  
+**Code Agent Developer – University-Enterprise Joint Training** (2026.10 – Present)  
 - Developing code agents for embedded software scenarios under a university-enterprise joint training program  
 - Focusing on LLM-based code understanding, debugging, and automated issue resolution in embedded systems
 
 ### 💹 Minghong Investment
-**Agent Algorithm Intern** (2026.04 – 2026.07)  
+**Agent Algorithm Intern** (2026.04 – 2026.09)  
 - Built a three-Agent system covering "validation → orchestration → monitoring & self-healing" for GPU training cluster management, assisting in operating a 5000+ GPU cluster  
 - Developed resource pre-validation Agent for real-time GPU/CPU/memory capacity checking, model-aware orchestration Agent for topology-aware task scheduling, and self-healing Agent for automated failure recovery via ReAct tool chain  
 - Achieved a zero-human-intervention fault recovery loop, validated across 17 real-world failure types including ImportError, OOM, and cross-file API misuse
