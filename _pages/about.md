@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a second-year Master's student in the LLM for Software Engineering Lab (LLMSE), affiliated with the School of Software at Shanghai Jiao Tong University in China. I’m grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
+Hi, I am a third-year Master’s student in the LLM for Software Engineering Lab (LLMSE), affiliated with the School of Software at Shanghai Jiao Tong University in China. I’m grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
 
 # 🧐 Research Interests
 **Software Engineering:** code generation, code debugging, software issue resolution, swe bench
@@ -18,9 +18,16 @@ Hi, I am a second-year Master's student in the LLM for Software Engineering Lab 
 ## 📝 Publications
 **Publications**  
   **SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution**  
-  [ICSE 2026](https://arxiv.org/abs/2507.23348)  
-  Han Li†, Yuling Shi†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
-  
+  Han Li†, Yuling Shi†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang  
+  [ICSE 2026](https://arxiv.org/abs/2507.23348) · [Code](https://github.com/YerbaPage/SWE-Debate)
+
+  **SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution**  
+  Silin Chen, Han Li, Xiaodong Gu, Yuling Shi, Haibing Guan  
+  [arXiv](https://arxiv.org/abs/2608.18933) · *Under Review*
+
+  **SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes**  
+  Silin Chen, Zihan Zhang, Xiaodong Gu, Jiale Huang, Yuling Shi, Han Li, Zhao Shan, Chengcheng Wan, Zhensu Sun, Haibing Guan  
+  [arXiv](https://arxiv.org/abs/2610.21359) · *Under Review*
 
 ## Education
 **Shanghai Jiao Tong University**  
@@ -67,6 +74,8 @@ Hi, I am a second-year Master's student in the LLM for Software Engineering Lab 
 - **Excellent Graduate of the SJTU Youth Marxism School** (2023.04)
 
 ### 🏅 University Honors
+- SJTU “Triple-A” Student Award (2027.10)
+- SJTU “Triple-A” Student Award (2026.10)
 - SJTU “Triple-A” Student Award (2025.10) 
 - Excellent Communist Youth League Member of SJTU (2023.09)  
 - SJTU “Triple-A” Student Award (2022.10)  
