@@ -1,3 +1,53 @@
 <!-- start custom comments snippet -->
+{% if site.comments.giscus %}
+<div class="giscus"></div>
+<script>
+  (function () {
+    var cfg = {
+      repo: "{{ site.comments.giscus.repo }}",
+      repoId: "{{ site.comments.giscus.repo_id }}",
+      category: "{{ site.comments.giscus.category }}",
+      categoryId: "{{ site.comments.giscus.category_id }}",
+      mapping: "{{ site.comments.giscus.mapping | default: 'pathname' }}",
+      reactionsEnabled: "{{ site.comments.giscus.reactions_enabled | default: '1' }}",
+      inputPosition: "{{ site.comments.giscus.input_position | default: 'top' }}",
+      lang: "{{ site.comments.giscus.lang | default: 'en' }}"
+    };
 
+    var isDark = function () {
+      return document.documentElement.getAttribute("data-theme") === "dark";
+    };
+
+    var script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.async = true;
+    script.crossOrigin = "anonymous";
+    script.setAttribute("data-repo", cfg.repo);
+    script.setAttribute("data-repo-id", cfg.repoId);
+    script.setAttribute("data-category", cfg.category);
+    script.setAttribute("data-category-id", cfg.categoryId);
+    script.setAttribute("data-mapping", cfg.mapping);
+    script.setAttribute("data-strict", "0");
+    script.setAttribute("data-reactions-enabled", cfg.reactionsEnabled);
+    script.setAttribute("data-emit-metadata", "0");
+    script.setAttribute("data-input-position", cfg.inputPosition);
+    script.setAttribute("data-theme", isDark() ? "dark" : "light");
+    script.setAttribute("data-lang", cfg.lang);
+    script.setAttribute("data-loading", "lazy");
+    document.querySelector(".giscus").appendChild(script);
+
+    new MutationObserver(function () {
+      var iframe = document.querySelector("iframe.giscus-frame");
+      if (!iframe) return;
+      iframe.contentWindow.postMessage(
+        { giscus: { setConfig: { theme: isDark() ? "dark" : "light" } } },
+        "https://giscus.app"
+      );
+    }).observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ["data-theme"]
+    });
+  })();
+</script>
+{% endif %}
 <!-- end custom comments snippet -->

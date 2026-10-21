@@ -99,7 +99,16 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "custom" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  giscus:
+    repo                 : "lihan0421/lihan0421.github.io"
+    repo_id              : "R_kgDOQl9QmQ"
+    category             : "General"
+    category_id          : "DIC_kwDOQl9Qmc4DJPRv"
+    mapping              : "pathname"
+    reactions_enabled    : "1"
+    input_position       : "top"
+    lang                 : "en"
   disqus:
     shortname            :
   discourse:

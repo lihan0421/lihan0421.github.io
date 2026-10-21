@@ -398,6 +398,62 @@ html[data-theme="dark"] .author__avatar img {
   font-size: 0.78rem;
 }
 
+/* ---------- Blog archive ---------- */
+.archive__item {
+  padding-bottom: 1.4rem;
+  margin-bottom: 1.4rem;
+  border-bottom: 1px solid var(--hp-border);
+}
+
+.archive__item:last-child {
+  border-bottom: 0;
+}
+
+.archive__item-title {
+  font-family: var(--hp-font-serif);
+  font-size: 1.22rem;
+  font-weight: 700;
+  margin: 0 0 0.35rem;
+}
+
+.archive__item-title a {
+  color: var(--hp-text);
+  text-decoration: none;
+}
+
+.archive__item-title a:hover {
+  color: var(--hp-accent);
+}
+
+.archive__item-excerpt {
+  color: var(--hp-muted);
+  font-size: 0.9rem;
+}
+
+.page__date {
+  color: var(--hp-muted);
+  font-size: 0.8rem;
+  margin-bottom: 0.25rem;
+}
+
+.page__date strong {
+  font-weight: 600;
+}
+
+/* ---------- Comments ---------- */
+.page__comments {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--hp-border);
+}
+
+.page__comments-title {
+  font-family: var(--hp-font-serif);
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 924px) {
   .page__title {
