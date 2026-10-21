@@ -9,28 +9,36 @@ redirect_from:
 
 Hi, I am a third-year Master’s student in the LLM for Software Engineering Lab (LLMSE), affiliated with the School of Software at Shanghai Jiao Tong University in China. I’m grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
 
-# 🧐 Research Interests
-**Software Engineering:** code generation, code debugging, software issue resolution, swe bench
-**Natural Language Processing:**  retrieval augmented generation, multi-agent systems
+## 🧐 Research Interests
+- **Software Engineering:** code generation, code debugging, software issue resolution, SWE-bench
+- **Natural Language Processing:** retrieval augmented generation, multi-agent systems
 
 ---
 
 ## 📝 Publications
-**Publications**  
-  **SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution**  
-  Han Li†, Yuling Shi†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang  
-  [ICSE 2026](https://arxiv.org/abs/2507.23348) · [Code](https://github.com/YerbaPage/SWE-Debate)
 
-  **SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution**  
-  Silin Chen, Han Li, Xiaodong Gu, Yuling Shi, Haibing Guan  
-  [arXiv](https://arxiv.org/abs/2608.18933) · *Under Review*
+<div class="pub-entry">
+<p class="pub-title">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</p>
+<p class="pub-authors">Han Li†, Yuling Shi†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang</p>
+<p class="pub-meta"><a class="pill conf" href="https://arxiv.org/abs/2507.23348">ICSE 2026</a><a class="pill" href="https://github.com/YerbaPage/SWE-Debate">Code</a></p>
+</div>
 
-  **SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes**  
-  Silin Chen, Zihan Zhang, Xiaodong Gu, Jiale Huang, Yuling Shi, Han Li, Zhao Shan, Chengcheng Wan, Zhensu Sun, Haibing Guan  
-  [arXiv](https://arxiv.org/abs/2610.21359) · *Under Review*
+<div class="pub-entry">
+<p class="pub-title">SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution</p>
+<p class="pub-authors">Silin Chen, Han Li, Xiaodong Gu, Yuling Shi, Haibing Guan</p>
+<p class="pub-meta"><a class="pill" href="https://arxiv.org/abs/2608.18933">arXiv</a><span class="pill review">Under Review</span></p>
+</div>
 
-## Education
-**Shanghai Jiao Tong University**  
+<div class="pub-entry">
+<p class="pub-title">SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes</p>
+<p class="pub-authors">Silin Chen, Zihan Zhang, Xiaodong Gu, Jiale Huang, Yuling Shi, Han Li, Zhao Shan, Chengcheng Wan, Zhensu Sun, Haibing Guan</p>
+<p class="pub-meta"><a class="pill" href="https://arxiv.org/abs/2610.21359">arXiv</a><span class="pill review">Under Review</span></p>
+</div>
+
+---
+
+## 🎓 Education
+**Shanghai Jiao Tong University**
 - **M.S., Software Engineering** (2024.09 – 2027.06)
 - **B.S., Software Engineering** (2020.09 – 2024.06)
 
@@ -38,33 +46,33 @@ Hi, I am a third-year Master’s student in the LLM for Software Engineering Lab
 
 ## 👨‍💻 Experiences
 ### 🚗 SAIC Motor, Platform Software Department
-**Code Agent Developer – University-Enterprise Joint Training** (2026.10 – Present)  
-- Developing code agents for embedded software scenarios under a university-enterprise joint training program  
+**Code Agent Developer – University-Enterprise Joint Training** (2026.10 – Present)
+- Developing code agents for embedded software scenarios under a university-enterprise joint training program
 - Focusing on LLM-based code understanding, debugging, and automated issue resolution in embedded systems
 
 ### 💹 Minghong Investment
-**Agent Algorithm Intern** (2026.04 – 2026.09)  
-- Built a three-Agent system covering "validation → orchestration → monitoring & self-healing" for GPU training cluster management, assisting in operating a 5000+ GPU cluster  
-- Developed resource pre-validation Agent for real-time GPU/CPU/memory capacity checking, model-aware orchestration Agent for topology-aware task scheduling, and self-healing Agent for automated failure recovery via ReAct tool chain  
+**Agent Algorithm Intern** (2026.04 – 2026.09)
+- Built a three-Agent system covering "validation → orchestration → monitoring & self-healing" for GPU training cluster management, assisting in operating a 5000+ GPU cluster
+- Developed resource pre-validation Agent for real-time GPU/CPU/memory capacity checking, model-aware orchestration Agent for topology-aware task scheduling, and self-healing Agent for automated failure recovery via ReAct tool chain
 - Achieved a zero-human-intervention fault recovery loop, validated across 17 real-world failure types including ImportError, OOM, and cross-file API misuse
 
-### 🛰️ Huawei 
-**Topic: Enhancing Multi-Agent Capabilities for Issue Resolution**  
-2025.01 – 2025.07  
-- Investigating advanced multi-agent collaboration mechanisms for SWE-bench–like issue solving  
+### 🛰️ Huawei
+**Topic: Enhancing Multi-Agent Capabilities for Issue Resolution** (2025.01 – 2025.07)
+- Investigating advanced multi-agent collaboration mechanisms for SWE-bench–like issue solving
 - Focusing on agent coordination, reasoning enhancement, and repository-level debugging automation
 
 ### 🧠 Large Model Software Technology Lab, SJTU
-**Graduate Researcher** (2024.09 – Present)  
-- Developing an issue-resolution framework based on Experience Pool and Localization Chain  
-- Researching agent architectures for repository-level code understanding and automated bug fixing  
+**Graduate Researcher** (2024.09 – Present)
+- Developing an issue-resolution framework based on Experience Pool and Localization Chain
+- Researching agent architectures for repository-level code understanding and automated bug fixing
 - Exploring LLM-based debugging strategies in complex software systems
 
-### 🎨 Digital Arts Laboratory, School of Software, SJTU  
-**Real-Time Rigid Body Simulation Engine based on XPBD** (2023.01)  
-- Implemented a real-time rigid body simulation engine based on XPBD  
-- Reproduced XPBD algorithms and integrated them into a vehicle motion model  
+### 🎨 Digital Arts Laboratory, School of Software, SJTU
+**Real-Time Rigid Body Simulation Engine based on XPBD** (2023.01)
+- Implemented a real-time rigid body simulation engine based on XPBD
+- Reproduced XPBD algorithms and integrated them into a vehicle motion model
 - Built the foundation for further extension and real-time applications
+
 ---
 
 ## 📚 Teaching
@@ -72,55 +80,47 @@ Hi, I am a third-year Master’s student in the LLM for Software Engineering Lab
 - Teaching Assistant for SE2303 “Principles and Practice of Software Engineering” (Summer 2025)
 - Teaching Assistant for SE3332 “machine learning” (Spring 2026)
 
-## Social Practice
-**Theme: “Contributing to Rural Revitalization and Welcoming the 20th CPC National Congress”**  
-2022.07 – 2022.08  
+## 🌱 Social Practice
+**Theme: “Contributing to Rural Revitalization and Welcoming the 20th CPC National Congress”** (2022.07 – 2022.08)
 - Project awarded **Outstanding Social Practice Project of Shanghai Jiao Tong University**
 
 ---
 
 ## 🏆 Awards & Honors
 ### 🎓 Personal Honors
-- **Outstanding Graduate of Shanghai Jiao Tong University** (2024.05)  
+- **Outstanding Graduate of Shanghai Jiao Tong University** (2024.05)
 - **Excellent Graduate of the SJTU Youth Marxism School** (2023.04)
 
 ### 🏅 University Honors
 - SJTU “Triple-A” Student Award (2027.10)
 - SJTU “Triple-A” Student Award (2026.10)
-- SJTU “Triple-A” Student Award (2025.10) 
-- Excellent Communist Youth League Member of SJTU (2023.09)  
-- SJTU “Triple-A” Student Award (2022.10)  
-- Excellent CYL Member of SJTU (2022.05)  
+- SJTU “Triple-A” Student Award (2025.10)
+- Excellent Communist Youth League Member of SJTU (2023.09)
+- SJTU “Triple-A” Student Award (2022.10)
+- Excellent CYL Member of SJTU (2022.05)
 - SJTU “Triple-A” Student Award (2021.09)
 
 ### 💰 Scholarships
-- Graduate Student Excellence Scholarship（2025.11）
-- COSCO Shipping Scholarship (2023.12)  
-- Longhu Foundation Scholarship (2022.09)  
-- Tencent Scholarship (2021.09)  
+- Graduate Student Excellence Scholarship (2025.11)
+- COSCO Shipping Scholarship (2023.12)
+- Longhu Foundation Scholarship (2022.09)
+- Tencent Scholarship (2021.09)
 - SJTU Scholarship Class B (2021.09)
 
 ---
 
-## Campus Experience
-- Member, Hunan Admissions Team of SJTU (2021.07 – 2024.06)  
-- Class President, Software Engineering F2003703 (2020.11 – 2024.06)  
-- Director, Sports Department, Student Union of School of Electronic Information and Electrical Engineering (2020.10 – 2022.12)  
-- Director, Work Department, CPC Research Association of SEIEE (2021.10 – 2022.11)  
+## 🏛️ Campus Experience
+- Member, Hunan Admissions Team of SJTU (2021.07 – 2024.06)
+- Class President, Software Engineering F2003703 (2020.11 – 2024.06)
+- Director, Sports Department, Student Union of School of Electronic Information and Electrical Engineering (2020.10 – 2022.12)
+- Director, Work Department, CPC Research Association of SEIEE (2021.10 – 2022.11)
 - Participated in university admissions work for three consecutive years; coordinated multiple class and school-wide activities
 
 ---
 
-## Open-source projects participated in
-- 🔥 A collection of resources for repo-level code generation. [github](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)
+## 📦 Open Source
+- 🔥 A collection of resources for repo-level code generation. [GitHub](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)
 
 ---
 
 <a href="https://info.flagcounter.com/PiYg"><img src="https://s01.flagcounter.com/count2/PiYg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
----
-
-
-
-
-

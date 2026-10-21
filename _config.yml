@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "LiHan's homepage"
+title                    : "Han Li"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Han Li"
+description              : &description "Han Li's academic homepage — LLM for Software Engineering Lab, Shanghai Jiao Tong University"
 url                      : https://lihan0421.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "https://lihan0421.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Li Han"
+  name             : "Han Li"
   pronouns         : # example: "she/her"  
-  bio              : "Third-year Master student at Shanghai Jiao Tong University"
+  bio              : "Third-year Master student in the LLM for Software Engineering Lab at SJTU"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lihan0421@sjtu.edu.cn" 
 
   # Academic websites
   academia         : # URL
